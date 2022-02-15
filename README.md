@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @drAbreu
 
-- 👀 I am Astrophysicist and head of the CoE for Data Science and Innovation at Camelot MC AG. 
-I am interested in applying deep learning techniques to problems. Mainly computer vision and NLP
+- 👀 I am an Astrophysicist that will join, as a machine learning developer, [EMBO: SourceData](https://sourcedata.embo.org/) on April 2022.
 
 - 🌱 I’m currently learning and improving my deep learnin and python stack.
 
