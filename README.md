@@ -1,13 +1,15 @@
 - 👋 Hi, I’m @drAbreu, a Spanish nerdy metalhead that went from studying the cosmos to help improving the research of cosmos' ultimate wonder: life.
 
-- 👀 From telescopes to microscopes. I am an Astrophysicist that will join, as a machine learning developer, [EMBO: SourceData](https://sourcedata.embo.org/) on April 2022.
-- 👀 Keep an eye on my outreach articles. I will link them here since science outreach is my other passion.
+- 🔭Astrophysicist 🤖AI/ML Developer 🧬🧫Molecular Biology ⚛Science communicator & Father 
 
-- 🌱 I’m currently learning and improving my skills with NLP, Pytorch, and HuggingFace.
+- 👀 From telescopes to microscopes. I am an Astrophysicist working as a machine learning developer at [EMBL, EMBO OpenScience Implementation and SourceData](https://sourcedata.embo.org/) since April 2022. 
 
-- 💞️ I’m looking to collaborate on the exciting projects at EMBO, intended to improve the research experience and the way scientists share data about their findings.
+- 🥼 Passionate about science outreach
+
+- 🤗 NLP in biomedical sciences using Torch and HuggingFace
 
 - 📫 Reach me at j-vicente@web.de
+
 - [Punto Vernal](https://kurtcovive.wixsite.com/puntovernal) Is the place where I put my passions together. It is a, currently building, project with the goal of becoming an Astrotourism firma, as well as a science outreach platform.
 
 <!---
