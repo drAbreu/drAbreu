@@ -14,12 +14,12 @@
 
 <div>
   <a href="https://github.com/drAbreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drAbreu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drAbreu&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drAbreu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drAbreu&layout=compact&langs_count=7&theme=dracula"/>
  <br />
   <b>🏆 Github Achievements</b>
  <br />   
-<p align="center"> <a href="https://github.com/lisaterumi"><img src="https://github-profile-trophy.vercel.app/?username=lisaterumi&margin-w=5&theme=radical" alt="lisaterumi" /></a>
+<p align="center"> <a href="https://github.com/lisaterumi"><img src="https://github-profile-trophy.vercel.app/?username=lisaterumi&margin-w=5&theme=dracula" alt="lisaterumi" /></a>
 </div>
 
 <!---
