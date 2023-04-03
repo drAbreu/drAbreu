@@ -24,9 +24,6 @@
 <a href="https://pypi.org/user/drkostas/">
     <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
 </a>
-<a href="https://github.com/drkostas">
-    <img src="https://github-stats-alpha.vercel.app/api?username=drAbreu&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
 
 </p>
 
