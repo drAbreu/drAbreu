@@ -19,9 +19,6 @@
 <a href='https://orcid.org/my-orcid?orcid=0000-0002-0211-6416' target="_blank">
     <img alt='ORCID' src='https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white'>
 </a>
-<a href="https://pypi.org/user/drkostas/">
-    <img src="https://img.shields.io/badge/PyPi-drkostas-blue?style=flat-square&logo=pypi&logoColor=white">
-</a>
 
 </p>
 
