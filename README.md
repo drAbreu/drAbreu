@@ -13,13 +13,12 @@
 <a href="https://www.linkedin.com/in/abreujorge-dataresearch">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:jorge.abreu@embo.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
 <a href='https://orcid.org/my-orcid?orcid=0000-0002-0211-6416' target="_blank">
     <img alt='ORCID' src='https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white'>
 </a>
-
+<a href="mailto:jorge.abreu@embo.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
 </p>
 
 
