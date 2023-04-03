@@ -35,7 +35,7 @@
 
 - 🤗 NLP in biomedical sciences using Torch and HuggingFace
 
-- 📫 Reach me at j-vicente@web.de
+- 📫 Reach me at jorge.abreu@embo.org
 
 - [Punto Vernal](https://kurtcovive.wixsite.com/puntovernal) Is the place where I put my passions together. It is a, currently building, project with the goal of becoming an Astrotourism firma, as well as a science outreach platform.
 
