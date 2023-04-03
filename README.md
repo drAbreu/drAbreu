@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/drkostas">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dr.+Jorge+Abreu+Vicente+%7c+Natural+Language+Processing+%7c+AI+to+upgrade+Science" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Dr.+Jorge+Abreu+Vicente;Natural+Language+Processing;AI+to+upgrade+Science" alt="Typing SVG" />
 </a>
 <br/>
 
