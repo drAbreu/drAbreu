@@ -1,6 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&duration=2000&pause=100&color=F7963F&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Dr+Jorge+Abreu+Vicente;Natural+Language+Processing;ML+%26+AI+for+Science+upgrade" alt="Typing SVG" /></a>
-<br/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Consolas&duration=2000&pause=100&color=F7963F&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=435&lines=Dr+Jorge+Abreu+Vicente;Natural+Language+Processing;ML+%26+AI+for+Science+upgrade" alt="Typing SVG" /></a> <br/>
 
 <!--
 <a href="https://gkos.tech">
