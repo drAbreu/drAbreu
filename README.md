@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/drAbreu">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=1000&pause=50&multiline=true&width=500&height=80&lines=Dr.+Jorge+Abreu+Vicente;Natural+Language+Processing;AI+to+upgrade+Science" alt="Typing SVG" />
 </a>
 <br/>
