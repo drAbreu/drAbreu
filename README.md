@@ -41,12 +41,12 @@
 <div>
  <p align="center">
   <a href="https://github.com/drAbreu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drAbreu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   </br>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=drAbreu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   </br> -->
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drAbreu&langs_count=15&hide_progress=true&theme=dracula"/>
     </p> -->
-<!--     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
- <br />
+<!-- <!--     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+ <br /> -->
   <b>🏆 Github Achievements</b>
  <br />   
 <p align="center"> <a href="https://github.com/lisaterumi"><img src="https://github-profile-trophy.vercel.app/?username=lisaterumi&margin-w=5&theme=dracula" alt="lisaterumi" /></a>
